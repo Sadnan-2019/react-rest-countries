@@ -1,0 +1,9 @@
+.country {
+  background-color: rgb(194, 194, 12);
+  margin: 20px;
+  border: 5px solid salmon;
+  border-radius: 10px;
+}
+.country img{
+          width: 150px;
+}
